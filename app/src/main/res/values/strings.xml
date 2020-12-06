@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="arrow"><![CDATA[<-]]></string>
+    <string name="game_rules">MathGame is an arithmetic game.\n\n
+    Choose Easy, Medium or Hard level to begin.\n\n
+    Answer the question by typing on the number pad displayed and pressing enter.\n\n
+    Press the C button to clear an existing answer.\n\n
+    Each question may be an addition, subtraction, multiplication or division.\n\n
+    Your ten best scores will automatically be saved into the High Scores.\n\n
+    Good luck!</string>
+</resources>
